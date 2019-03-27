@@ -1,0 +1,50 @@
+.
+<!DOCTYPE html>
+<html>
+<head>
+
+
+<script src="https://api.yelp.com/v3/businesses/search"></script>
+
+
+<script type = "text/javascript"> 
+                           
+</script>
+
+
+</head>
+
+
+<body>
+
+
+<form id="formSubmit" class="form-wrapper" action="key.php" method="post" >
+
+
+<strong>Select radius to search within </strong><br><br>
+<input type="radio" id="radio1" name="mile" value="25" checked='checked'> 25 Miles
+<input type="radio" id="radio2" name="mile" value="50" > 50 Miles
+<input type="radio" id="radio3" name="mile" value="100" > 100 Miles
+<input type="radio" id="radio4" name="mile" value="200" > 200 Miles
+<input type="radio" id="radio5" name="mile" value="300" > 300 Miles
+<input type="radio" id="radio6" name="mile" value="500" > 500 Miles
+<br> <br>                  
+
+
+<input type="text" id="term" name="term"  size="35" placeholder="Search by Business Name or Keyword" required><br><br>
+<input type="text" id="location" name="location" size="35"  placeholder="Address, Neighborhood, City, State or Zip" required><br><br>
+<input type="text" id="categories" name="categories" size="35"  placeholder="Categories, use commas to filter" required><br><br>
+
+
+        <input type="submit" value="Search" id="submit">
+</form>
+
+
+
+
+<div id="results">
+</div>
+
+
+</body>
+</html>
