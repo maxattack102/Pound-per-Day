@@ -1,0 +1,1331 @@
+[22-Mar-2019 11:43:24 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 11:44:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 11:45:04 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 12:05:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 12:05:24 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 12:05:45 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 12:08:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 12:09:07 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 13:12:45 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:16:41 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:16:41 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:20:46 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:20:46 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:20:50 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:20:50 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:20:50 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:20:50 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:21:27 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:21:27 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:21:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:21:31 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:21:31 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:21:31 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:22:11 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:22:11 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:22:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:22:15 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:22:45 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:22:45 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:02 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:02 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:04 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:04 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:06 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:06 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:09 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:09 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:11 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:11 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:13 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:13 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:16 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:16 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:23:19 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:23:24 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:24 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:23:38 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:23:41 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:23:41 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[22-Mar-2019 16:24:41 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:24:41 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:26:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:26:23 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:26:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:26:51 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:29:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:29:38 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:29:50 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:29:50 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:30:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:30:49 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:30:52 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:30:52 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:30:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:30:57 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:31:01 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:31:01 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:31:06 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:31:06 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:31:48 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:31:48 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:32:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:32:31 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 16:33:02 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 16:33:02 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 17:02:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:02:27 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 17:11:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:11:35 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 94
+[22-Mar-2019 17:11:50 America/New_York] PHP Notice:  Undefined index: password_1 in /var/www/html/ppdClient.php on line 109
+[22-Mar-2019 17:11:50 America/New_York] PHP Notice:  Undefined index: password_2 in /var/www/html/ppdClient.php on line 109
+[22-Mar-2019 17:11:50 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:12:08 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:12:08 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 17:12:34 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:12:34 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 67
+[22-Mar-2019 17:13:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:13:42 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 62
+[22-Mar-2019 17:15:07 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:15:07 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 17:15:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:15:49 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 17:16:02 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:16:02 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 69
+[22-Mar-2019 17:19:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:19:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:22:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:23:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:23:56 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:24:53 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:28:07 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:29:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:29:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:30:52 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:35:02 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 17:38:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 19:34:47 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[22-Mar-2019 19:34:53 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 14:17:46 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 14:42:06 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 14:53:54 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:38:02 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:38:18 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:38:18 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:41:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:41:55 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:42:52 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:43:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:43:04 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:43:53 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:43:53 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:44:08 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:44:08 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:44:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:44:13 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:44:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:44:26 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:53:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:53:42 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 71
+[23-Mar-2019 16:55:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:55:10 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 72
+[23-Mar-2019 16:55:28 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:55:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:56:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:56:51 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 72
+[23-Mar-2019 16:59:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/html/rabbitMQLib.inc on line 215
+[23-Mar-2019 16:59:54 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/html/ppdClient.php on line 72
+[23-Mar-2019 17:22:16 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[23-Mar-2019 17:22:16 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[23-Mar-2019 17:33:46 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[23-Mar-2019 17:33:46 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[23-Mar-2019 17:35:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 17:36:01 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 17:44:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 17:45:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 17:49:00 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 17:49:00 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/poundperday/ppdClient.php on line 74
+[23-Mar-2019 18:01:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:13:40 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:13:40 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/poundperday/ppdClient.php on line 72
+[23-Mar-2019 18:13:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:13:57 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/poundperday/ppdClient.php on line 72
+[23-Mar-2019 18:31:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:31:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:31:55 America/New_York] PHP Notice:  Undefined variable: argv in /var/www/poundperday/ppdClient.php on line 72
+[23-Mar-2019 18:34:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:34:26 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:35:04 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:35:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:36:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:36:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:37:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:37:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:37:38 America/New_York] PHP Notice:  Undefined index: user in /var/www/poundperday/ppdClient.php on line 75
+[23-Mar-2019 18:37:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:37:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:38:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:39:12 America/New_York] PHP Notice:  Undefined index: user in /var/www/poundperday/ppdClient.php on line 75
+[23-Mar-2019 18:39:12 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:39:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:40:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:41:14 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:41:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:41:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:41:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:45:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:45:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:46:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:46:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:46:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:46:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:46:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:49:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:49:32 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:49:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:55:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:56:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:56:28 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:56:45 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:56:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:57:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:57:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:57:54 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:57:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:58:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:58:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:58:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:58:44 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:58:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 18:59:05 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 18:59:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 19:00:26 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 19:00:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 19:00:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 19:01:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 19:01:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 19:01:32 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 19:01:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[23-Mar-2019 19:19:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[23-Mar-2019 19:20:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[23-Mar-2019 19:20:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 16:54:46 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 16:54:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 16:58:04 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 16:58:08 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 16:58:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 16:59:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 17:00:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 17:01:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 17:01:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 17:14:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:20:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 17:20:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 17:29:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:29:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:30:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:31:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:35:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:35:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:35:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:35:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:36:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:37:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:37:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:37:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:37:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:39:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:39:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:42:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:42:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:42:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:43:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 17:43:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:53:17 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 18:53:58 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:54:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 18:56:40 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 18:57:06 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 18:58:34 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 18:59:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 19:00:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 19:04:34 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:05:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:05:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:05:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:06:48 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:07:34 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:07:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:09:46 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:09:58 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:09:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:12:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:15:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 19:15:37 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:15:53 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:15:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:17:45 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:17:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:21:39 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 66
+[24-Mar-2019 19:22:08 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 66
+[24-Mar-2019 19:22:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:22:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:25:06 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[24-Mar-2019 19:25:06 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[24-Mar-2019 19:32:14 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:32:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:33:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 19:33:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:34:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 19:36:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[24-Mar-2019 19:45:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 20:12:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 20:13:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:15:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:15:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:15:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:16:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:16:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:17:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/viewprofile.php on line 3
+[24-Mar-2019 20:19:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 20:26:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 20:27:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 20:27:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 20:27:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 20:28:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 20:28:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 20:31:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 20:31:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 20:58:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:08:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 21:08:56 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 21:14:14 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 21:19:03 America/New_York] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /var/www/poundperday/dBfunctions.php on line 84
+[24-Mar-2019 21:21:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:21:26 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 21:21:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:22:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 21:22:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:25:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 21:25:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:26:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:26:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[24-Mar-2019 21:27:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[24-Mar-2019 21:30:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:32:37 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[24-Mar-2019 21:32:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[24-Mar-2019 21:33:17 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:16:58 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[25-Mar-2019 09:16:58 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[25-Mar-2019 09:17:17 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[25-Mar-2019 09:17:17 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[25-Mar-2019 09:19:30 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:19:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 09:20:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:20:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 09:20:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[25-Mar-2019 09:20:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:21:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[25-Mar-2019 09:30:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 09:35:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 09:39:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:39:14 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:41:16 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:41:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:41:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:43:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:43:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:43:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:49:34 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:49:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:49:48 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:55:25 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 09:55:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 09:55:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:08:32 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:08:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 10:11:48 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:11:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 10:11:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:17:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:18:14 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:19:04 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:19:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 10:19:16 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:21:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:21:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 10:21:45 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:24:40 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:24:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 10:24:47 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:26:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:26:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 10:34:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:36:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:37:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:37:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:40:45 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:42:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:45:44 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:48:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:48:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 10:49:05 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:03:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:03:32 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:04:02 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[25-Mar-2019 11:04:02 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[25-Mar-2019 11:04:19 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[25-Mar-2019 11:04:19 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[25-Mar-2019 11:04:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:04:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:06:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:09:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:09:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:10:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:11:06 America/New_York] PHP Notice:  Undefined index: loss in /var/www/poundperday/ppdClient.php on line 85
+[25-Mar-2019 11:11:06 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:11:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:11:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:11:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:11:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:14:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:14:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:19:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:19:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:19:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:19:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:19:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:21:00 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:21:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:21:02 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:21:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:21:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:21:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:22:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:22:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:22:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:23:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:23:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:23:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:27:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:27:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:29:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:29:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:31:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:32:03 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[25-Mar-2019 11:32:03 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[25-Mar-2019 11:32:14 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:32:14 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:32:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:32:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:32:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:33:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[25-Mar-2019 11:40:10 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:40:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:41:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:41:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:41:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:42:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:42:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:42:17 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:42:17 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:44:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:44:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:48:45 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:48:57 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 62
+[25-Mar-2019 11:48:57 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[25-Mar-2019 11:49:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:49:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:49:29 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:49:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:49:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:49:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:49:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[25-Mar-2019 11:50:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[25-Mar-2019 11:50:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[25-Mar-2019 11:50:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:50:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:50:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:51:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:51:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:51:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:51:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:51:41 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:51:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:52:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:52:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:52:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:52:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[25-Mar-2019 11:52:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:54:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:54:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[25-Mar-2019 11:54:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[25-Mar-2019 11:55:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 13:50:52 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:50:52 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:51:18 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:51:18 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:51:40 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:51:40 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:26 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:26 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:27 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:27 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:31 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:31 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:49 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:52:49 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:53:04 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:53:04 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/html/errors.php on line 1
+[26-Mar-2019 13:54:24 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:54:24 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:54:54 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:54:54 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:55:42 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:55:42 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:56:16 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:56:16 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:56:33 America/New_York] PHP Notice:  Undefined variable: errors in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 13:56:33 America/New_York] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /var/www/poundperday/errors.php on line 1
+[26-Mar-2019 16:05:41 America/New_York] PHP Parse error:  syntax error, unexpected '–' (T_STRING) in /var/www/poundperday/dBfunctions.php on line 275
+[26-Mar-2019 17:34:02 America/New_York] PHP Parse error:  syntax error, unexpected '\' (T_NS_SEPARATOR) in /var/www/poundperday/dBfunctions.php on line 398
+[26-Mar-2019 22:47:19 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 28
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 55
+[26-Mar-2019 22:47:20 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 55
+[26-Mar-2019 22:47:20 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 57
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 38 in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 76
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 38 in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 79
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Undefined offset: 38 in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:47:20 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 82
+[26-Mar-2019 22:55:31 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:55:32 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:55:32 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:55:32 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:55:40 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:55:42 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:55:42 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:55:42 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:55:45 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:00 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:56:00 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:00 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:00 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:56:14 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:56:15 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:15 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:15 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:56:23 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:56:23 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:23 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:23 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:56:34 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:56:38 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:38 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:38 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:56:38 America/New_York] PHP Notice:  Undefined property: stdClass::$total in /var/www/poundperday/key.php on line 83
+[26-Mar-2019 22:56:38 America/New_York] PHP Notice:  Undefined property: stdClass::$total in /var/www/poundperday/key.php on line 84
+[26-Mar-2019 22:56:49 America/New_York] PHP Notice:  Undefined variable: catgories in /var/www/poundperday/key.php on line 30
+[26-Mar-2019 22:56:50 America/New_York] PHP Notice:  Undefined variable: url in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:50 America/New_York] PHP Warning:  fopen(): Filename cannot be empty in /var/www/poundperday/key.php on line 64
+[26-Mar-2019 22:56:50 America/New_York] PHP Warning:  fread() expects parameter 1 to be resource, boolean given in /var/www/poundperday/key.php on line 66
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 20 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 21 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 22 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 23 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 24 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 25 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 26 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 27 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 28 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 29 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 30 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 31 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 32 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 33 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 34 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 35 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 36 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'name' of non-object in /var/www/poundperday/key.php on line 93
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'rating' of non-object in /var/www/poundperday/key.php on line 97
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'address1' of non-object in /var/www/poundperday/key.php on line 100
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'city' of non-object in /var/www/poundperday/key.php on line 102
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'state' of non-object in /var/www/poundperday/key.php on line 104
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'location' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'zip_code' of non-object in /var/www/poundperday/key.php on line 106
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Undefined offset: 37 in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Notice:  Trying to get property 'image_url' of non-object in /var/www/poundperday/key.php on line 109
+[26-Mar-2019 22:56:54 America/New_York] PHP Warning:  file_get_contents(): Filename cannot be empty in /var/www/poundperday/key.php on line 110

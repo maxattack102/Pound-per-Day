@@ -1,0 +1,381 @@
+[23-Mar-2019 19:20:31 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/poundperday/dBfunctions.php on line 81
+[23-Mar-2019 19:20:31 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Unirest\Request' not found in /var/www/poundperday/dBfunctions.php:87
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(41): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(52): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 87
+[24-Mar-2019 17:20:36 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/poundperday/dBfunctions.php on line 81
+[24-Mar-2019 17:20:36 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Unirest\Request' not found in /var/www/poundperday/dBfunctions.php:87
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(41): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(52): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 87
+[25-Mar-2019 09:39:14 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/poundperday/dBfunctions.php on line 98
+[25-Mar-2019 09:39:14 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Unirest\Request' not found in /var/www/poundperday/dBfunctions.php:104
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 104
+[25-Mar-2019 09:43:57 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/poundperday/dBfunctions.php on line 98
+[25-Mar-2019 09:43:57 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Unirest\Request' not found in /var/www/poundperday/dBfunctions.php:104
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 104
+[25-Mar-2019 09:49:48 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 45 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:93
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 93
+[25-Mar-2019 09:55:35 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 45 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:93
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 93
+[25-Mar-2019 10:11:59 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 45 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:93
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 93
+[25-Mar-2019 10:19:16 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 45 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:93
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 93
+[25-Mar-2019 10:21:45 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 45 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:93
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 93
+[25-Mar-2019 10:24:47 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 45 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:93
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(45): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(56): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 93
+[25-Mar-2019 20:16:57 America/New_York] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function searchFood(), 3 passed in /var/www/poundperday/ppdServer.php on line 49 and exactly 4 expected in /var/www/poundperday/dBfunctions.php:108
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(49): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(60): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 108
+[25-Mar-2019 20:38:06 America/New_York] PHP Notice:  Trying to get property 'num_rows' of non-object in /var/www/poundperday/dBfunctions.php on line 114
+[25-Mar-2019 20:38:06 America/New_York] PHP Fatal error:  Uncaught Error: Class 'Unirest\Request' not found in /var/www/poundperday/dBfunctions.php:120
+Stack trace:
+#0 /var/www/poundperday/ppdServer.php(49): searchFood('dv269', 'chicken', 'lunch')
+#1 /var/www/poundperday/rabbitMQLib.inc(58): requestProcessor(Array)
+#2 [internal function]: rabbitMQServer->process_message(Object(AMQPEnvelope), Object(AMQPQueue))
+#3 /var/www/poundperday/rabbitMQLib.inc(122): AMQPQueue->consume(Array)
+#4 /var/www/poundperday/ppdServer.php(60): rabbitMQServer->process_requests('requestProcesso...')
+#5 {main}
+  thrown in /var/www/poundperday/dBfunctions.php on line 120
+[26-Mar-2019 15:00:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 15:00:41 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 15:03:51 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 63
+[26-Mar-2019 15:03:51 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[26-Mar-2019 15:03:59 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 63
+[26-Mar-2019 15:03:59 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[26-Mar-2019 15:04:10 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 15:04:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:04:48 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:05:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:05:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:05:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:06:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:06:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:06:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:06:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 15:06:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 15:07:29 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 15:07:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 15:19:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 15:19:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 15:21:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 15:28:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 15:28:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 15:28:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 15:28:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[26-Mar-2019 16:14:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:14:53 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 63
+[26-Mar-2019 16:14:53 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[26-Mar-2019 16:15:12 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 63
+[26-Mar-2019 16:15:12 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[26-Mar-2019 16:15:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:15:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:15:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:15:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:15:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:15:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:15:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:15:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:15:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:18:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:18:39 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:18:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:19:06 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:19:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:19:06 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:19:08 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:19:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:26:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:26:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:26:22 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:26:22 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:26:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:26:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:26:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:30:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:30:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:30:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:30:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:30:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:32:12 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:32:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:35:32 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:35:32 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:36:26 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:36:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:36:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:36:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:36:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:37:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:37:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:38:01 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:38:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:38:01 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:38:21 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:38:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:39:08 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:39:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:40:27 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:40:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:43:07 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 63
+[26-Mar-2019 16:43:07 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[26-Mar-2019 16:43:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:43:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:44:04 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:44:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:44:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:44:25 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:44:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:45:04 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:45:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:48:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:48:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:48:21 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:48:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:48:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:48:25 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:48:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:57:26 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:57:26 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:57:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:57:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 16:57:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 16:57:37 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 16:57:37 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 17:02:46 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:02:55 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:03:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 17:03:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:03:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 17:03:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:03:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:03:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:13:42 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:13:43 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 17:13:58 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:13:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 17:14:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:14:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 17:14:52 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:14:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 17:25:18 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:25:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 17:25:29 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:25:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 17:25:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 17:25:31 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:25:31 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 17:25:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 17:26:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:26:03 America/New_York] PHP Notice:  Undefined variable: insert_query in /var/www/poundperday/dBfunctions.php on line 401
+[26-Mar-2019 17:26:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 17:26:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:26:24 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:26:24 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:30:12 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:30:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:30:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:30:35 America/New_York] PHP Notice:  Undefined variable: insert_query in /var/www/poundperday/dBfunctions.php on line 401
+[26-Mar-2019 17:30:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:33:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:34:02 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:34:02 America/New_York] PHP Notice:  Undefined variable: insert_query in /var/www/poundperday/dBfunctions.php on line 401
+[26-Mar-2019 17:34:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:35:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:35:07 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:35:07 America/New_York] PHP Notice:  Undefined variable: insert_query in /var/www/poundperday/dBfunctions.php on line 401
+[26-Mar-2019 17:35:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:36:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:36:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:36:36 America/New_York] PHP Notice:  Undefined variable: insert_query in /var/www/poundperday/dBfunctions.php on line 401
+[26-Mar-2019 17:36:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:39:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:39:41 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:40:49 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:40:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:41:27 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
+[26-Mar-2019 17:41:30 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 17:41:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updatepref.php on line 3
+[26-Mar-2019 17:43:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 17:44:08 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 17:44:08 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:02:00 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:02:15 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:02:15 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:03:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:03:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:03:21 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:11:29 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:11:38 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:11:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:12:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:12:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:12:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:14:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:14:10 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:14:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:15:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:15:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:15:57 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:16:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:16:58 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:16:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:20:44 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 63
+[26-Mar-2019 18:20:44 America/New_York] PHP Notice:  Undefined variable: response in /var/www/poundperday/ppdClient.php on line 65
+[26-Mar-2019 18:20:57 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:20:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 18:21:36 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:21:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 18:21:36 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 18:22:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:22:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 18:22:58 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:23:17 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:23:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:23:54 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:25:35 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:25:35 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 18:30:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 18:30:20 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:30:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 18:30:20 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 18:30:40 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:30:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 18:32:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:32:33 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:32:33 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:34:46 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:34:51 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:34:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:36:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:36:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:36:10 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:37:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:37:28 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:37:28 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:38:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:38:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:38:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:39:42 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:39:52 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:39:52 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:41:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:42:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:42:04 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:43:38 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 18:43:59 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 18:43:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/updateprofile.php on line 3
+[26-Mar-2019 22:46:34 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 22:46:59 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:47:39 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:48:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:55:34 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:55:51 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:56:02 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:56:16 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:56:25 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:56:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 22:57:07 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/yelp.php on line 3
+[26-Mar-2019 23:00:49 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:22:54 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:23:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:23:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 23:23:13 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:23:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 23:23:13 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 23:23:18 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:23:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 23:23:18 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:23:50 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:24:12 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:24:23 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:24:23 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:26:40 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:27:53 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:28:03 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:28:03 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:31:54 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:31:55 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 23:32:09 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:32:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/profile.php on line 3
+[26-Mar-2019 23:32:09 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 23:32:11 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:32:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/preferences.php on line 3
+[26-Mar-2019 23:32:11 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:32:19 America/New_York] PHP Deprecated:  Function AMQPQueue::declare() is deprecated in /var/www/poundperday/rabbitMQLib.inc on line 215
+[26-Mar-2019 23:32:19 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/rating.php on line 3
+[26-Mar-2019 23:32:47 America/New_York] PHP Notice:  session_start(): A session had already been started - ignoring in /var/www/poundperday/food.php on line 3
