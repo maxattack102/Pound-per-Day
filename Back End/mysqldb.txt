@@ -1,0 +1,20 @@
+
+CREATE TABLE `poundperday`.`account` ( `username` VARCHAR(20) NOT NULL PRIMARY KEY , `email` VARCHAR(25) NOT NULL , `password` VARCHAR(40) NOT NULL , `plainPass` VARCHAR(40) NOT NULL ) ENGINE = InnoDB;
+ALTER TABLE `account` ADD PRIMARY KEY(`username`);
+
+
+CREATE TABLE `poundperday`.`food` ( `username` VARCHAR(20) NOT NULL PRIMARY KEY , `cuisine` VARCHAR(20) NULL DEFAULT NULL , `diet` VARCHAR(20) NULL DEFAULT NULL , `restrictions` VARCHAR(20) NULL DEFAULT NULL , `calories` INT(11) NULL DEFAULT NULL ) ENGINE = InnoDB;
+
+
+CREATE TABLE `poundperday`.`profile` ( `username` VARCHAR(20) NOT NULL PRIMARY KEY , `fname` VARCHAR(20) NOT NULL , `lname` VARCHAR(20) NOT NULL , `age` INT(11) NOT NULL , `weight` INT(11) NOT NULL , `height_ft` INT(11) NOT NULL , `height_in` INT(11) NOT NULL , `gender` VARCHAR(10) NOT NULL , `loss` VARCHAR(20) NOT NULL , `activity` VARCHAR(20) NOT NULL ) ENGINE = InnoDB;
+
+
+CREATE TABLE `poundperday`.`ratings` ( `username` VARCHAR(20) NOT NULL , `selectType` VARCHAR(20) NOT NULL , `foodName` VARCHAR(20) NOT NULL , `rating` INT(11) NOT NULL , `recommend` VARCHAR(20) NOT NULL , `comments` TEXT NOT NULL ) ENGINE = InnoDB;
+
+
+
+//for email
+sudo apt-get install sendmail
+sudo apt-get install postfix
+sudo mkfifo /var/spool/postfix/public/pickup
+sudo service postfix restart

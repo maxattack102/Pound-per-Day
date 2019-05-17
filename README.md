@@ -2,18 +2,9 @@
 	NJIT IT490 Class Project
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
 
-Most Current Folder: Midterm Deliverables Folder
-
-  Midterm Deliverables
-+++++++++++++++++++++++++
-1.	Profile page.
-2.	Recommend system.
-3.	Food search and list.
-4.	Restaurant search w/ Yelp API. 
-		- For some reason the Yelp API is malfunctioning and only works with 500 miles (we will look into that problem to see why)
-5.	What I ate today/Rating
-		- Ex: I tried pizza at this place and I didn’t like it, don’t recommend this place in the future.
-
+Goaal: Create an app that is able to work as a calorie calculator and can reccomend the user any food that fits their need. In addition we allowed the user to ask others by having a set date option
+		
+All our documentation will explain in greater detail the reason for each file and the way they work  collectively
 		
 For Clarification:
 
