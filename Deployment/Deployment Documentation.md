@@ -1,0 +1,9 @@
+Deployment files:
+ 
+●	rollout-qa.sh - Deploys changes from development machine to QA(Quality Assurance)
+●	rollout-prod.sh - Deploys changes from QA to Production
+●	rollback.sh - Rolls back either QA or Production machine to an earlier version, specified by you when you run the program
+
+Before running the files you need to edit them, and input the proper information. In rollout-qa.sh you should put the password for the development machine after sshpass -p in quotes. Then you should put the username of the development machine followed by the ip for the machine in the following format username@ipaddress immediately following scp -r. Then on the next line you should repeat these steps for the QA machine. For rollout-prod.sh you need to put the proper info for the production machine. In rollback.sh, you’re again following the same steps first for the QA machine then for the production machine in the second line. 
+
+Now onto actually running the programs, you need to run them using the following format. sudo bash ./programname. Make sure you use cd beforehand to put yourself in the proper directory. rollout-qa.sh does not require any other steps other than entering your root password. rollout-prod will give you a prompt asking which version you would like to push to production, simply enter the version number and it will be good. For rollback.sh you will receive two prompts. The first will be “Would you like to roll back Production or QA?” This prompt will accept either “production” or “Production” for production and “qa” or “QA” for QA. Then you will be prompted to enter the version you would like to roll back to. For this simply enter the number of the version and press enter. If you enter a version that does not exist you will get the error “Invalid input” and will need to run the program again.

@@ -1,0 +1,14 @@
+[Unit]
+Description=databaseDV automated service
+After=network.target
+StartLimitIntervalSec=0
+
+[Service]
+Type=simple
+Restart=always
+RestartSec=1
+User=daniel
+ExecStart=/usr/bin/env php /var/www/html/poundperday/ppdServer.php
+
+[Install]
+WantedBy=multi-user.target
